@@ -42,12 +42,12 @@ description: |
 
 | 主题 | 文件 |
 |:---|:---|
-| 发布前准备 SOP | [references/preparation.md](references/preparation.md) |
-| 发布日执行清单 | [references/launch-day.md](references/launch-day.md) |
-| 发布后运营 | [references/post-launch.md](references/post-launch.md) |
-| KOL 合作清单 | [references/kol-list.md](references/kol-list.md) |
-| 渠道资源清单 | [references/channels.md](references/channels.md) |
-| 文案模板 | [references/templates.md](references/templates.md) |
+| 发布前准备 SOP | [references/preparation.md](https://github.com/Gingiris/gingiris-opensource/blob/main/references/preparation.md) |
+| 发布日执行清单 | [references/launch-day.md](https://github.com/Gingiris/gingiris-opensource/blob/main/references/launch-day.md) |
+| 发布后运营 | [references/post-launch.md](https://github.com/Gingiris/gingiris-opensource/blob/main/references/post-launch.md) |
+| KOL 合作清单 | [references/kol-list.md](https://github.com/Gingiris/gingiris-opensource/blob/main/references/kol-list.md) |
+| 渠道资源清单 | [references/channels.md](https://github.com/Gingiris/gingiris-opensource/blob/main/references/channels.md) |
+| 文案模板 | [references/templates.md](https://github.com/Gingiris/gingiris-opensource/blob/main/references/templates.md) |
 
 ---
 
@@ -55,12 +55,12 @@ description: |
 
 | 🇨🇳 中文 | 🇺🇸 English | 🇯🇵 日本語 | 🇰🇷 한국어 |
 |:---|:---|:---|:---|
-| [发布准备](references/preparation.md) | [Preparation](references/en/preparation.md) | [準備段階](references/ja/preparation.md) | [준비 단계](references/ko/preparation.md) |
-| [发布日](references/launch-day.md) | [Launch Day](references/en/launch-day.md) | [ローンチ日](references/ja/launch-day.md) | [런칭일](references/ko/launch-day.md) |
-| [发布后运营](references/post-launch.md) | [Post-Launch](references/en/post-launch.md) | [ローンチ後](references/ja/post-launch.md) | [런칭 후](references/ko/post-launch.md) |
-| [KOL清单](references/kol-list.md) | [KOL List](references/en/kol-list.md) | [KOLリスト](references/ja/kol-list.md) | [KOL 목록](references/ko/kol-list.md) |
-| [渠道资源](references/channels.md) | [Channels](references/en/channels.md) | [チャネル](references/ja/channels.md) | [채널](references/ko/channels.md) |
-| [文案模板](references/templates.md) | [Templates](references/en/templates.md) | [テンプレート](references/ja/templates.md) | [템플릿](references/ko/templates.md) |
+| [发布准备](https://github.com/Gingiris/gingiris-opensource/blob/main/references/preparation.md) | [Preparation](https://github.com/Gingiris/gingiris-opensource/blob/main/references/en/preparation.md) | [準備段階](https://github.com/Gingiris/gingiris-opensource/blob/main/references/ja/preparation.md) | [준비 단계](https://github.com/Gingiris/gingiris-opensource/blob/main/references/ko/preparation.md) |
+| [发布日](https://github.com/Gingiris/gingiris-opensource/blob/main/references/launch-day.md) | [Launch Day](https://github.com/Gingiris/gingiris-opensource/blob/main/references/en/launch-day.md) | [ローンチ日](https://github.com/Gingiris/gingiris-opensource/blob/main/references/ja/launch-day.md) | [런칭일](https://github.com/Gingiris/gingiris-opensource/blob/main/references/ko/launch-day.md) |
+| [发布后运营](https://github.com/Gingiris/gingiris-opensource/blob/main/references/post-launch.md) | [Post-Launch](https://github.com/Gingiris/gingiris-opensource/blob/main/references/en/post-launch.md) | [ローンチ後](https://github.com/Gingiris/gingiris-opensource/blob/main/references/ja/post-launch.md) | [런칭 후](https://github.com/Gingiris/gingiris-opensource/blob/main/references/ko/post-launch.md) |
+| [KOL清单](https://github.com/Gingiris/gingiris-opensource/blob/main/references/kol-list.md) | [KOL List](https://github.com/Gingiris/gingiris-opensource/blob/main/references/en/kol-list.md) | [KOLリスト](https://github.com/Gingiris/gingiris-opensource/blob/main/references/ja/kol-list.md) | [KOL 목록](https://github.com/Gingiris/gingiris-opensource/blob/main/references/ko/kol-list.md) |
+| [渠道资源](https://github.com/Gingiris/gingiris-opensource/blob/main/references/channels.md) | [Channels](https://github.com/Gingiris/gingiris-opensource/blob/main/references/en/channels.md) | [チャネル](https://github.com/Gingiris/gingiris-opensource/blob/main/references/ja/channels.md) | [채널](https://github.com/Gingiris/gingiris-opensource/blob/main/references/ko/channels.md) |
+| [文案模板](https://github.com/Gingiris/gingiris-opensource/blob/main/references/templates.md) | [Templates](https://github.com/Gingiris/gingiris-opensource/blob/main/references/en/templates.md) | [テンプレート](https://github.com/Gingiris/gingiris-opensource/blob/main/references/ja/templates.md) | [템플릿](https://github.com/Gingiris/gingiris-opensource/blob/main/references/ko/templates.md) |
 
 ---
 
