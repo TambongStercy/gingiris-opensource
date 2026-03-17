@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+}
+.menu-head{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 0;
+    width: 100%;
+    background: rgba(116, 116, 116, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(31, 31, 31, 0.3);
+    backdrop-filter: blur(100%);
+    -webkit-backdrop-filter: blur(5px);
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+}
+.menu-head img{
+    width: 20%;
+}
+.head{
+    display: flex;
+    flex-direction: column;
+}
+button {
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    border-color:white;
+    border-width: 1px;
+    border-radius: 15px;
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.15);
+    background: #D0A2F7;
+    margin-bottom: 3.5vh;
+   }
+   
+   button, button span {
+    transition: 200ms;
+   }
+   
+   button .text {
+    transform: translateX(35px);
+    color: white;
+    font-weight: bold;
+   }
+   
+   button .icon {
+    position: absolute;
+    border-left: 1px solid #fafafa;
+    transform: translateX(110px);
+    height: 40px;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+   
+   button svg {
+    width: 15px;
+    fill: #eee;
+   }
+   
+   button:hover {
+    background: #E5D4FF;
+   }
+   button svg:hover{
+    fill: #363062;
+   }
+   
+   button:hover .text {
+    color: transparent;
+   }
+   
+   button:hover .icon {
+    width: 150px;
+    border-left: none;
+    transform: translateX(0);
+   }
+   
+   button:focus {
+    outline: none;
+   }
+   
+   button:active .icon svg {
+    transform: scale(0.8);
+   }
+   .container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-width: 100%;
+    gap: 1.5em;
+   }
+
+   .candidat-content{
+    display: flex;
+    justify-content: center;
+    width: 15em;
+    background: rgba(236, 231, 239, 0.135);
+    box-shadow: 0 8px 32px 0 rgba(45, 45, 45, 0.5);
+    backdrop-filter: blur( 10px );
+    -webkit-backdrop-filter: blur( 10px );
+    border-radius: 10px;
+    border: 1px solid rgba(182, 108, 255, 0.18);
+    z-index: 1000;
+   }
+
+   .candidat img{
+    margin-top: 3.5vh;
+    width: 12em;
+    height: 12em;
+    border-radius: 10px;
+
+   }
+   h3{
+    font-family: montserrat;
+    color: aliceblue;
+    font-weight: 700;
+   }
+   h1,h4{
+    font-family: montserrat, serif;
+    color: #F1EAFF;
+    text-align: center;
+   }
+
+   h5{
+    font-family: Agbalumo;
+    color: #F1EAFF;
+    font-size: 16px;
+   }
+   .footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+    background: #363062;
+    color: #eee;
+   }
+   .footer a {
+    color: #eee;
+    text-decoration: none;
+   }
+   .Submit-button{
+    margin-top:2em ;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+   }

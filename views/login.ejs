@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/login.css">
+    <link rel="stylesheet" href="/Header.css">
+    <link rel="icon" type="image/x-icon" href="/assets/logo.png">
+    <title>CESA | Connexion</title> 
+</head>
+<body>
+    <header>
+        <div>
+            <div class="head">
+                <div class="menu-head">
+                    <img src="/assets/logo.png" />
+                </div>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div class="form-container">
+            <div class="form-box">
+                <form class="form" onSubmit={handleFormSubmit()} action="/vote" method="post">
+                  <span class="title">Connexion</span>
+                  <span class="subtitle">
+                    Utilisez votre numéro de téléphone qui est dans le groupe CESA.
+                  </span>
+                  <div class="form-container">
+                    <input type="text" class="input" placeholder="Nom complet" name="name">
+                    <input type="text" class="input" placeholder="Matricule" name="matricule" >
+                    <input type="text" class="input" placeholder="Email" name="email" >
+                    <input
+                      type="text"
+                      class="input test"
+                      placeholder="numéro de tel"
+                      name="tel"
+           
+                    >
+                  </div>
+                  <button>Connexion</button>
+                </form>
+              </div>
+        </div>
+    </main>
+
+   
+    <footer>
+        <div class="footer">
+            <p>All rights reserved CESA | Designed with ❤️ by <a href="simbtech.com" target="_blank">simbtech</a></p>
+        </div>
+    </footer>
+    
+</body>
+</html>
